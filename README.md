@@ -67,6 +67,14 @@ Program ini dibuat menggunakan Python dengan GUI **CustomTkinter** dan memory ed
 4. Pilih tab **Sengoku Basara 2 Heroes**
 5. Aktifkan cheat yang kamu inginkan!
 
+### 💀 Cara Memainkan Matsunaga Hisahide
+1. Pilih karakter **Miyamoto Musashi** di menu character select
+2. Klik **Play** dan tunggu sampai muncul **loading layar hitam**
+3. Pada saat loading layar hitam tersebut, **cepat-cepat aktifkan** cheat Matsunaga di Trainer
+4. Setelah loading selesai, karakter kamu akan berubah menjadi **Matsunaga Hisahide**!
+
+> ⏱️ **Timing penting!** Kamu harus mengaktifkan cheat Matsunaga tepat saat layar loading hitam. Kalau terlambat, karakter tidak akan terganti.
+
 ---
 
 ## 📁 Struktur File
